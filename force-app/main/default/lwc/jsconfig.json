@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/apex-imperative-method": [
+                "apexImperativeMethod/apexImperativeMethod.js"
+            ],
+            "c/contact-tile": [
+                "contactTile/contactTile.js"
+            ],
+            "c/error-panel": [
+                "errorPanel/errorPanel.js"
+            ],
+            "c/hello-world": [
+                "HelloWorld/HelloWorld.js"
+            ],
+            "c/search-contacts": [
+                "searchContacts/searchContacts.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ]
+}

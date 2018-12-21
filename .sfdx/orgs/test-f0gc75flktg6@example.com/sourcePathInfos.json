@@ -1,0 +1,576 @@
+[
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544872378106,
+            "changeTime": 1544872378106,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544872378107,
+            "changeTime": 1544872378107,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545333998108,
+            "changeTime": 1545333998108,
+            "contentHash": "45a799018727f161248f6c4a04e6959936dc28c9"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544872378108,
+            "changeTime": 1544872378108,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545324788961,
+            "changeTime": 1545324788961,
+            "contentHash": "bdd84570ad3631c6998bdc40981541eee5e74475",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\HelloWorld",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\HelloWorld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544877210429,
+            "changeTime": 1544877210429,
+            "contentHash": "4d3a5791e351a8371e4821f8f2a003616ca73597",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.html",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.html",
+            "isDirectory": false,
+            "size": 360,
+            "modifiedTime": 1545320467116,
+            "changeTime": 1545320467116,
+            "contentHash": "3ea29b11e4f489cff9c2ceb908d2c9db591fe9f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.js",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.js",
+            "isDirectory": false,
+            "size": 217,
+            "modifiedTime": 1544880450076,
+            "changeTime": 1544880450076,
+            "contentHash": "379b5fd0a4745bfe6ba4cdc990ae142229c00bef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.js-meta.xml",
+            "isDirectory": false,
+            "size": 374,
+            "modifiedTime": 1544880149773,
+            "changeTime": 1544880149773,
+            "contentHash": "625908976659f2324a3fd41745c937847cf506df",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544872398306,
+            "changeTime": 1544872398306,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545316426952,
+            "changeTime": 1545316426952,
+            "contentHash": "26feec76be92a1c724e9bf00e0a78ee8aed431b6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactSearchController.cls",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactSearchController.cls",
+            "isDirectory": false,
+            "size": 687,
+            "modifiedTime": 1545330242675,
+            "changeTime": 1545330242675,
+            "contentHash": "69caf5561c8907dad7f61b0be899b6a7aaa26336",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactSearchController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactSearchController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1545316445298,
+            "changeTime": 1545316445298,
+            "contentHash": "cfb98d44daa4052bc162b09d1f91ad680d407494",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexImperativeMethod",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexImperativeMethod",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545321343679,
+            "changeTime": 1545321343679,
+            "contentHash": "0401eb5d37ed8802d5600ec113364bfefaf653d4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\errorPanel",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\errorPanel",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545322006298,
+            "changeTime": 1545322006298,
+            "contentHash": "e921a21a953fed8b9602bfc538894f24e1350462",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexImperativeMethod\\apexImperativeMethod.html",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexImperativeMethod\\apexImperativeMethod.html",
+            "isDirectory": false,
+            "size": 827,
+            "modifiedTime": 1545321435232,
+            "changeTime": 1545321435232,
+            "contentHash": "a2b57fd9f8091006081c470485421e2fce883b4c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexImperativeMethod\\apexImperativeMethod.js",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexImperativeMethod\\apexImperativeMethod.js",
+            "isDirectory": false,
+            "size": 461,
+            "modifiedTime": 1545321551783,
+            "changeTime": 1545321551783,
+            "contentHash": "29dc33b8100965a03ffeebd6d9fc27ec679449a3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexImperativeMethod\\apexImperativeMethod.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexImperativeMethod\\apexImperativeMethod.js-meta.xml",
+            "isDirectory": false,
+            "size": 235,
+            "modifiedTime": 1545321343647,
+            "changeTime": 1545321343647,
+            "contentHash": "8bd2ea0da88f9d8d156dccdf14be7b8bcf4e67fb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.css",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.css",
+            "isDirectory": false,
+            "size": 39,
+            "modifiedTime": 1545322037302,
+            "changeTime": 1545322037302,
+            "contentHash": "b96fa823986a6a19e2c52c5c4cc8464f41406b9c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.html",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.html",
+            "isDirectory": false,
+            "size": 817,
+            "modifiedTime": 1545321906466,
+            "changeTime": 1545321906466,
+            "contentHash": "5bd890ef65734f3e1f91cad3e9a74c82d792d901",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.js",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.js",
+            "isDirectory": false,
+            "size": 1381,
+            "modifiedTime": 1545321976804,
+            "changeTime": 1545321976804,
+            "contentHash": "959fb2916fb8dc7eefeeb65affdc6e0ae32bb13b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.js-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1545321871840,
+            "changeTime": 1545321871840,
+            "contentHash": "411664b42c26c004db3a49e5f00412691030bda6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactTile",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactTile",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545324788994,
+            "changeTime": 1545324788994,
+            "contentHash": "fc73366db00f0ef35989e11b33839ee5f2b3872b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\searchContacts",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\searchContacts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545324699547,
+            "changeTime": 1545324699547,
+            "contentHash": "12c16d530aaaea0e8296d80f9f6c6ad6bf98fddf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactTile\\contactTile.html",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactTile\\contactTile.html",
+            "isDirectory": false,
+            "size": 385,
+            "modifiedTime": 1545324824138,
+            "changeTime": 1545324824138,
+            "contentHash": "006084984889bdba44bdbb4168d2506fcb1f9025",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactTile\\contactTile.js",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactTile\\contactTile.js",
+            "isDirectory": false,
+            "size": 125,
+            "modifiedTime": 1545324870496,
+            "changeTime": 1545324870496,
+            "contentHash": "fe3a492084d8c6937e6e103eba3fa933c85af3d8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactTile\\contactTile.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactTile\\contactTile.js-meta.xml",
+            "isDirectory": false,
+            "size": 392,
+            "modifiedTime": 1545325015272,
+            "changeTime": 1545325015272,
+            "contentHash": "76c8863581c13607defda52d4f38008ddb2de379",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\searchContacts\\searchContacts.css",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\searchContacts\\searchContacts.css",
+            "isDirectory": false,
+            "size": 341,
+            "modifiedTime": 1545325754756,
+            "changeTime": 1545325754756,
+            "contentHash": "0d0347a66dfd7d211eb204dc5a2e8617b367e254",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\searchContacts\\searchContacts.html",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\searchContacts\\searchContacts.html",
+            "isDirectory": false,
+            "size": 1632,
+            "modifiedTime": 1545330075970,
+            "changeTime": 1545329696914,
+            "contentHash": "be6d4249976790f61e8e687ca37bc34e9c43b7f5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\searchContacts\\searchContacts.js",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\searchContacts\\searchContacts.js",
+            "isDirectory": false,
+            "size": 855,
+            "modifiedTime": 1545330248628,
+            "changeTime": 1545330042859,
+            "contentHash": "400e869906c584bebda6945eeb08129f303b94ca",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\searchContacts\\searchContacts.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\searchContacts\\searchContacts.js-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1545325032983,
+            "changeTime": 1545325032983,
+            "contentHash": "4bbb0dc41ce2282400647d8d2efddb465409aa5f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1545333998073,
+            "changeTime": 1545333998073,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\flexipages\\Search_Contacts.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\flexipages\\Search_Contacts.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 718,
+            "modifiedTime": 1545333998082,
+            "changeTime": 1545333998082,
+            "contentHash": "e7b64a1889e4456d36beca91bb5cc2e17e259c7c"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1724,
+            "modifiedTime": 1545333998090,
+            "changeTime": 1545333998090,
+            "contentHash": "d9f783e3a0c0c8fedeed50ef912b2772649ff9c3"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\tabs\\Search_Contacts.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\tabs\\Search_Contacts.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 331,
+            "modifiedTime": 1545333998097,
+            "changeTime": 1545333998097,
+            "contentHash": "9d4a0e14c5dff9dbbd19574d1c544ee413fd0c68"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18836,
+            "modifiedTime": 1545333998114,
+            "changeTime": 1545333998114,
+            "contentHash": "1498c0cc54e9c2e2bcf8666b6c7d6dc0439601df"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4694,
+            "modifiedTime": 1545333998124,
+            "changeTime": 1545333998124,
+            "contentHash": "29faf56151f5c9f1cee1d575f1c7e079f174c6a1"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4694,
+            "modifiedTime": 1545333998133,
+            "changeTime": 1545333998133,
+            "contentHash": "29faf56151f5c9f1cee1d575f1c7e079f174c6a1"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5032,
+            "modifiedTime": 1545333998141,
+            "changeTime": 1545333998141,
+            "contentHash": "3e90bf825c0278408c0ed69c61048d9bd7a9511a"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545333998072,
+            "changeTime": 1545333998072,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545333998090,
+            "changeTime": 1545333998090,
+            "contentHash": "3444d3642bf38325eaa85621f9b92b13b7baac61"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545333998097,
+            "changeTime": 1545333998097,
+            "contentHash": "87fd058cdf186bdf485a73e59dfd4ec0e7d068cc"
+        }
+    ],
+    [
+        "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\milan.jena\\LightningWebComponents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545333998141,
+            "changeTime": 1545333998141,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]

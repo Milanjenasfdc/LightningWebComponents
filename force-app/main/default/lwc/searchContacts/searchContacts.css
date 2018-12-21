@@ -1,0 +1,18 @@
+lightning-input {
+    position: relative;
+    border: solid 1px #ecebea;
+    border-radius: 4px;
+    display: block;
+    padding: 2px;
+}
+
+lightning-input:before {
+    color: #dddbda;
+    position: absolute;
+    top: -9px;
+    left: 4px;
+    background-color: #ffffff;
+    padding: 0 4px;
+    content: "lightning-input";
+}
+
