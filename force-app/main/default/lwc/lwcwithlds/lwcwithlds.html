@@ -1,0 +1,39 @@
+<template>
+    <lightning-card title="Account Record Form using LDS (Dynamic)" icon-name="standard:Account">
+
+        <div class="slds-m-around_medium">
+            <lightning-record-form object-api-name={objectApiName} record-id={recordId} fields={fields}></lightning-record-form>
+        </div>
+    </lightning-card>
+    <lightning-card>    
+        <template if:true={recordId}>
+            <c-create-contact accountid={recordId}> </c-create-contact>
+        </template>
+    </lightning-card>
+    
+    <template if:true={contacts.data}>
+        <lightning-card title="Related Contacts using Wire decorator" icon-name="standard:Contact">
+            <table class="slds-table slds-table_bordered slds-table_striped">
+                <thead>
+                    <tr>
+                        <th scope="col"><span class="slds-truncate">Name</span></th>
+                        <th scope="col"><span class="slds-truncate">Contact Title</span></th>
+                        <th scope="col"><span class="slds-truncate">Email</span></th>
+                        <th scope="col"><span class="slds-truncate">Phone</span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <template for:each={contacts.data} for:item="contact">
+                        <tr key={contact.Id}>
+                            <td>{contact.Name}</td>
+                            <td>{contact.Title}</td>
+                            <td>{contact.Email}</td>
+                            <td>{contact.Phone}</td>
+                        </tr>
+                    </template>
+                </tbody>
+            </table>
+        </lightning-card>
+    </template>
+    
+</template>
